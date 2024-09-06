@@ -28,10 +28,10 @@ header {
 }
 
 .post_form {
-  max-width: 500px; /* 최대 너비 설정 */
+  max-width: 800px; /* 최대 너비 설정 */
   margin: 20px auto; /* 중앙 정렬 */
   padding: 20px; /* 내부 여백 */
-  border: 1px solid #ccc; /* 테두리 */
+  border: 1px solid #ececec; /* 테두리 */
   border-radius: 10px; /* 모서리 둥글게 */
   background-color: #f9f9f9; /* 배경색 */
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* 그림자 효과 */
@@ -71,7 +71,7 @@ header {
   background-color: #0056b3; /* 호버 시 배경색 변화 */
 }
 
-.postlist {
+.post_list {
   max-width: 800px; /* 최대 너비 설정 */
   margin: 20px auto; /* 중앙 정렬 */
   padding: 20px; /* 내부 여백 */

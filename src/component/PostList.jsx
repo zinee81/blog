@@ -1,6 +1,6 @@
 export default function PostList({ posts }) {
   return (
-    <div className="postlist">
+    <div className="post_list">
       {posts.map((post) => (
         <div className="post" key={post.idx}>
           <div className="title">{post.title}</div>
